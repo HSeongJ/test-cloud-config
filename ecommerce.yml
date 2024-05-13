@@ -1,6 +1,6 @@
 token:
   expiration_time: 86400000
-  secret: userTokenTest_userTokenTest_userTokenTest_userTokenTest_userTokenTest_
+  secret: userTokenTest_userTokenTest_userTokenTest_userTokenTest_userTokenTest_changed_#1
 
 gateway:
   ip: 192.168.11.9
