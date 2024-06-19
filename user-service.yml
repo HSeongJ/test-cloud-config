@@ -13,4 +13,5 @@ gateway:
   ip: 192.168.11.9
 
 order_service:
-  url: http://order-service/order-service/%s/orders
+  url: http://ORDER-SERVICE/order-service/%s/orders
+# http://ORDER-SERVICE -> load balancer
